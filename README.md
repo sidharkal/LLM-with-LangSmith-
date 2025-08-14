@@ -1,6 +1,6 @@
 # LLM with LangSmith
 
-LangSmith helps you **monitor and evaluate** different components of the **agent lifecycle** when building AI agentic apps with LLMs.
+LangSmith helps you **monitor and evaluate** different components of the **agent lifecycle** when building AI agentic apps with LLMs and It allows you to closely monitor and evaluate your application, so you can ship quickly and with confidence.
 
 ---
 
@@ -8,11 +8,11 @@ LangSmith helps you **monitor and evaluate** different components of the **agent
 When building applications with **Large Language Models (LLMs)**, it's important to have visibility into how your agents behave.  
 LangSmith works like a **dashboard** that shows what's happening inside your app and lets you:
 
-- 🐞 **Debug** when things go wrong  
-- 🧪 **Test** your prompts and logic  
-- 📊 **Evaluate** the quality of responses  
-- ⏱ **Monitor** your app in real time  
-- 💰 **Track** usage, speed, and cost
+- **Debug** when things go wrong  
+- **Test** your prompts and logic  
+- **Evaluate** the quality of responses  
+- **Monitor** your app in real time  
+- **Track** usage, speed, and cost
 
 ---
 
