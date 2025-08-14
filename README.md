@@ -4,7 +4,7 @@ LangSmith helps you **monitor and evaluate** different components of the **agent
 
 ---
 
-## 🚀 Overview
+##  Overview
 When building applications with **Large Language Models (LLMs)**, it's important to have visibility into how your agents behave.  
 LangSmith works like a **dashboard** that shows what's happening inside your app and lets you:
 
@@ -16,7 +16,7 @@ LangSmith works like a **dashboard** that shows what's happening inside your app
 
 ---
 
-## 🛠 Features
+##  Features
 - **Agent Lifecycle Tracking** – Monitor each step from input to output  
 - **Prompt Evaluation** – Analyze and improve prompt performance  
 - **Error Debugging** – Trace and fix issues quickly  
